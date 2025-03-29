@@ -1,7 +1,7 @@
 {
-  "name": "shadow-v0",
-  "version": "1.0.0",
-  "description": "Shadow v-0 WhatsApp Bot with stylish messages and game features",
+  "name": "shadow-v1",
+  "version": "1.8.0",
+  "description": "Shadow v-1 WhatsApp Bot with stylish messages and game features",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -16,11 +16,10 @@
   "keywords": [
     "whatsapp-bot",
     "baileys",
-    "shadow-v0",
+    "shadow-v1",
     "antilink",
     "welcome",
-    "goodbye",
-    "game"
+    "goodbye", 
   ],
   "author": "eternlxz",
   "license": "MIT"
