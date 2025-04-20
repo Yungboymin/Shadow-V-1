@@ -1,0 +1,29 @@
+{
+  "name": "shadow v-1",
+  "version": "1.0.0",
+  "description": "A simple WhatsApp connection using Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "bot"
+  ],
+  "author": "eternlxz",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "axios": "^1.0.0",
+    "chalk": "^5.0.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "pino": "^9.6.0", 
+     "@hapi/boom": "^10.0.1"
+
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
